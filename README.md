@@ -1,6 +1,6 @@
 Instituto Tecnológico de Costa Rica
-Administración de Tecnologias de la Información
-Lenguajes de Programación
+=Administración de Tecnologias de la Información
+=Lenguajes de Programación
 
 ________________________
 
